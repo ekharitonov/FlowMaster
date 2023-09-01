@@ -23,8 +23,32 @@ The potential market for FlowMaster is vast, encompassing SMEs across various se
 
 FlowMaster has the potential to become an indispensable tool for businesses aiming to achieve operational excellence and stay competitive in today's dynamic market landscape.
 
-# NSF I-Corps
+# NSF I-Corps (Fall 2023 Session)
+Benefits of the Program
+Develop best practices for conducting customer discovery and identifying key stakeholders.
+Learn, practice, and hone your innovation skills.
+Improve the odds for commercial success.
+Understand market trends and needs in your ecosystem.
+Expand your network of like-minded peers, instructors, investors, customers, and mentors.
+Obtain eligibility to apply for $50,000 grant from the National NSF I-CorpsTM team grant.
+Prepare for applying to the Small Business Innovation Research (SBIR) or Small Business Technology Transfer programs.
+
 Link for the Lean Launchpad Short Course https://canvas.illinois.edu/courses/40903/modules
+
+EnterpriseWorks Room 130 | 60 Hazelwood Dr., Champaign
+All sessions will be in person except the Oct. 11 session. 
+Dinner is provided at all in-person sessions.
+
+    Wednesday, September 6 | 4:00-5:30pm CT
+    Wednesday, September 13 | 4:00-6:30pm CT
+    Wednesday, September 27 | 4:00-6:30pm CT
+    Wednesday, October 11 | 4:00-6:40pm CT - Virtual
 
 # Pitch Deck for the FlowMaster
 FlowMaster - https://bmegroup.sharepoint.com/:p:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/FlowMaster.pptx?d=w4ab0678d9fdd4775ab3e1abfb75d731e&csf=1&web=1&e=ecHe7Z
+
+# Useful Resources
+- LaunchPad Software for Business Model Validation - https://www.glidr.io/launchpad/accelerators/lean-launchpad-short-course
+- How to Write a Business Plan - https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan
+- The Startup Owner's Manual - https://oceanofpdf.com/authors/steve-blank/pdf-epub-the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-download-2-96022043849/
+- TechStars Accelerator (Chicago) - https://www.techstars.com/communities/startup-weekend
