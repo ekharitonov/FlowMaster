@@ -22,3 +22,9 @@ The potential market for FlowMaster is vast, encompassing SMEs across various se
 - Pilot Feedback: Our pilot tests' positive feedback and tangible results further validated the market demand and the platform's efficiency.
 
 FlowMaster has the potential to become an indispensable tool for businesses aiming to achieve operational excellence and stay competitive in today's dynamic market landscape.
+
+# NSF I-Corps
+Link for the Lean Launchpad Short Course https://canvas.illinois.edu/courses/40903/modules
+
+# Pitch Deck for the FlowMaster
+FlowMaster - https://bmegroup.sharepoint.com/:p:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/FlowMaster.pptx?d=w4ab0678d9fdd4775ab3e1abfb75d731e&csf=1&web=1&e=ecHe7Z
