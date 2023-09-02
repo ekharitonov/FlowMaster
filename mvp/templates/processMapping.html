@@ -6,5 +6,14 @@
 <body>
     <h1>Process Mapping Page</h1>
     <p>This is the Process Mapping page where you can create and view process maps.</p>
+    <h1>Process Mapping and Basic Analytics</h1>
+    <form method="post">
+        <label for="process_data">Enter Process Data (JSON Format):</label>
+        <textarea id="process_data" name="process_data"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    {% if num_steps %}
+    <p>Number of Steps in the Process: {{ num_steps }}</p>
+    {% endif %}
 </body>
 </html>
