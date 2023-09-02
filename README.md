@@ -45,6 +45,9 @@ Dinner is provided at all in-person sessions.
     Wednesday, October 11 | 4:00-6:40pm CT - Virtual
 
 # Work Folder With Project Documents
+
+OPENAI API KEY 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
+
 https://bmegroup.sharepoint.com/:f:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster?csf=1&web=1&e=xbEWcp
 
     ## Pitch Deck for the FlowMaster
