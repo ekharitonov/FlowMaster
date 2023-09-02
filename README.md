@@ -47,18 +47,22 @@ Dinner is provided at all in-person sessions.
 # Work Folder With Project Documents
 https://bmegroup.sharepoint.com/:f:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster?csf=1&web=1&e=xbEWcp
 
-## Pitch Deck for the FlowMaster
-FlowMaster - https://bmegroup.sharepoint.com/:p:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/FlowMaster.pptx?d=w4ab0678d9fdd4775ab3e1abfb75d731e&csf=1&web=1&e=ecHe7Z
+    ## Pitch Deck for the FlowMaster
+    FlowMaster - https://bmegroup.sharepoint.com/:p:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/FlowMaster.pptx?d=w4ab0678d9fdd4775ab3e1abfb75d731e&csf=1&web=1&e=ecHe7Z
 
-## Business Requirements Documentation (BRD)
-https://bmegroup.sharepoint.com/:w:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/7.%20Business%20Requirement%20Document.docx?d=w1169dfc309c24121b14c996d1c9a9e8a&csf=1&web=1&e=Q11uTY
+    ## Business Requirements Documentation (BRD)
+    https://bmegroup.sharepoint.com/:w:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/7.%20Business%20Requirement%20Document.docx?d=w1169dfc309c24121b14c996d1c9a9e8a&csf=1&web=1&e=Q11uTY
 
-## Functional Specification Documentation (FSD)
-https://bmegroup.sharepoint.com/:w:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/8.%20Functional%20Specification%20Document.docx?d=we091e55b2cd7415795efa0a273c4b2de&csf=1&web=1&e=WFF7Kv
+    ## Functional Specification Documentation (FSD)
+    https://bmegroup.sharepoint.com/:w:/r/sites/ImmigrationtoUnitedStates/Shared%20Documents/Work/bme.USA/Consulting/FlowMaster/8.%20Functional%20Specification%20Document.docx?d=we091e55b2cd7415795efa0a273c4b2de&csf=1&web=1&e=WFF7Kv
+
+
+# FlowMaster - SME Process Flow Optimization - Community Channel
+Comminity Channel - https://discord.gg/GA8VpENG9B
 
 # Useful Resources
-- LaunchPad Software for Business Model Validation - https://www.glidr.io/launchpad/accelerators/lean-launchpad-short-course
-- How to Write a Business Plan - https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan
-- The Startup Owner's Manual - https://oceanofpdf.com/authors/steve-blank/pdf-epub-the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-download-2-96022043849/
-- TechStars Accelerator (Chicago) - https://www.techstars.com/communities/startup-weekend
-- BRD vs FSD what's the diff? - https://www.linkedin.com/pulse/brd-vs-fsd-whats-diff-jessica-st-clair/
+LaunchPad Software for Business Model Validation - https://www.glidr.io/launchpad/accelerators/lean-launchpad-short-course
+How to Write a Business Plan - https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan
+The Startup Owner's Manual - https://oceanofpdf.com/authors/steve-blank/pdf-epub-the-startup-owners-manual-the-step-by-step-guide-for-building-a-great-company-download-2-96022043849/
+TechStars Accelerator (Chicago) - https://www.techstars.com/communities/startup-weekend
+BRD vs FSD what's the diff? - https://www.linkedin.com/pulse/brd-vs-fsd-whats-diff-jessica-st-clair/
