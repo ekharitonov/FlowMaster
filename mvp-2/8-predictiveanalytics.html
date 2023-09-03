@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FlowMaster - Predictive Analytics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div id="date-range-picker">
+            <label for="start-date">Start Date:</label>
+            <input type="date" id="start-date" name="start-date">
+            
+            <label for="end-date">End Date:</label>
+            <input type="date" id="end-date" name="end-date">
+        </div>
+        <div id="actions">
+            <button>Export Data</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="predictive-analytics">
+        <!-- Predictive charts and potential bottlenecks -->
+        <!-- You'll need to implement the predictive charts using JavaScript libraries like Chart.js, D3.js, etc. -->
+        <div id="predictive-chart">Predictive Chart</div>
+        <div id="potential-bottlenecks">Potential Bottlenecks</div>
+    </main>
+
+    <!-- Sidebar -->
+    <aside>
+        <h3>Filters</h3>
+        <form id="analytics-filters">
+            <label for="category">Category:</label>
+            <select id="category" name="category">
+                <option value="all">All</option>
+                <option value="sales">Sales</option>
+                <option value="traffic">Traffic</option>
+                <!-- Add more categories as needed -->
+            </select>
+            
+            <label for="metric">Metric:</label>
+            <select id="metric" name="metric">
+                <option value="all">All</option>
+                <option value="views">Views</option>
+                <option value="clicks">Clicks</option>
+                <!-- Add more metrics as needed -->
+            </select>
+            
+            <button type="submit">Apply Filters</button>
+        </form>
+        
+        <h3>Prediction Settings</h3>
+        <form id="prediction-settings">
+            <label for="confidence-level">Confidence Level:</label>
+            <input type="range" id="confidence-level" name="confidence-level" min="0" max="100">
+            
+            <button type="submit">Update Settings</button>
+        </form>
+    </aside>
+
+    <!-- Footer -->
+    <footer>
+        <div id="legal">
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Privacy Policy</a>
+        </div>
+    </footer>
+
+</body>
+</html>

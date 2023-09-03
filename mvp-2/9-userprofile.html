@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FlowMaster - User Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div id="actions">
+            <button>Edit Profile</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="user-profile">
+        <!-- User details, Change Password, Subscription Plan -->
+        <section id="user-details">
+            <h2>User Details</h2>
+            <p>Name: John Doe</p>
+            <p>Email: john.doe@example.com</p>
+            <!-- Add more user details as needed -->
+        </section>
+        
+        <section id="change-password">
+            <h2>Change Password</h2>
+            <form>
+                <label for="current-password">Current Password:</label>
+                <input type="password" id="current-password" name="current-password">
+                
+                <label for="new-password">New Password:</label>
+                <input type="password" id="new-password" name="new-password">
+                
+                <label for="confirm-password">Confirm New Password:</label>
+                <input type="password" id="confirm-password" name="confirm-password">
+                
+                <button type="submit">Change Password</button>
+            </form>
+        </section>
+        
+        <section id="subscription-plan">
+            <h2>Subscription Plan</h2>
+            <p>Current Plan: Premium</p>
+            <button>Upgrade Plan</button>
+        </section>
+    </main>
+
+    <!-- Sidebar -->
+    <aside>
+        <h3>Account Settings</h3>
+        <ul>
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Security</a></li>
+            <li><a href="#">Notifications</a></li>
+            <!-- Add more settings as needed -->
+        </ul>
+        
+        <h3>Billing History</h3>
+        <ul>
+            <li><a href="#">Invoice 1</a></li>
+            <li><a href="#">Invoice 2</a></li>
+            <li><a href="#">Invoice 3</a></li>
+            <!-- Add more invoices as needed -->
+        </ul>
+    </aside>
+
+    <!-- Footer -->
+    <footer>
+        <div id="legal">
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Privacy Policy</a>
+        </div>
+    </footer>
+
+</body>
+</html>

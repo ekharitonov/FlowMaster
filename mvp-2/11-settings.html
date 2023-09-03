@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FlowMaster - Settings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div id="actions">
+            <button>Save Changes</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="settings">
+        <!-- Various settings like notifications, privacy, etc. -->
+        <section id="notifications-settings">
+            <h2>Notifications</h2>
+            <form>
+                <label for="email-notifications">Email Notifications:</label>
+                <input type="checkbox" id="email-notifications" name="email-notifications">
+                
+                <label for="sms-notifications">SMS Notifications:</label>
+                <input type="checkbox" id="sms-notifications" name="sms-notifications">
+                
+                <label for="app-notifications">App Notifications:</label>
+                <input type="checkbox" id="app-notifications" name="app-notifications">
+            </form>
+        </section>
+        
+        <section id="privacy-settings">
+            <h2>Privacy</h2>
+            <form>
+                <label for="public-profile">Public Profile:</label>
+                <input type="checkbox" id="public-profile" name="public-profile">
+                
+                <label for="data-sharing">Data Sharing:</label>
+                <input type="checkbox" id="data-sharing" name="data-sharing">
+            </form>
+        </section>
+        
+        <!-- Add more settings as needed -->
+    </main>
+
+    <!-- Sidebar -->
+    <aside>
+        <h3>Settings Categories</h3>
+        <ul>
+            <li><a href="#notifications-settings">Notifications</a></li>
+            <li><a href="#privacy-settings">Privacy</a></li>
+            <!-- Add more settings categories as needed -->
+        </ul>
+    </aside>
+
+    <!-- Footer -->
+    <footer>
+        <div id="legal">
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Privacy Policy</a>
+        </div>
+    </footer>
+
+</body>
+</html>

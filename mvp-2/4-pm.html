@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FlowMaster - Process Mapping</title>
+    <style>
+        /* Add some basic styling */
+        #draggable-elements li {
+            width: 100px;
+            height: 50px;
+            background-color: lightgray;
+            margin: 10px;
+            padding: 10px;
+            text-align: center;
+            cursor: grab;
+        }
+        #drag-drop-area {
+            width: 600px;
+            height: 400px;
+            border: 2px solid black;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div id="instructions">
+            <h1>Process Mapping</h1>
+            <p>Instructions: Drag elements from the sidebar into the main content area to map your processes.</p>
+        </div>
+        <div id="actions">
+            <button>Save</button>
+            <button>Export</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="drag-drop-area">
+        <!-- Drag-and-drop interface for mapping processes -->
+    </main>
+
+    <!-- Sidebar -->
+    <aside>
+        <h3>Pre-defined Elements</h3>
+        <ul id="draggable-elements">
+            <li draggable="true">Start</li>
+            <li draggable="true">End</li>
+            <li draggable="true">Decision</li>
+            <li draggable="true">Process</li>
+        </ul>
+    </aside>
+
+    <!-- Footer -->
+    <footer>
+        <div id="legal">
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Privacy Policy</a>
+        </div>
+    </footer>
+
+    <script>
+        // JavaScript for drag-and-drop
+        const dragArea = document.getElementById('drag-drop-area');
+        const dragElements = document.querySelectorAll('#draggable-elements li');
+
+        dragElements.forEach(elem => {
+            elem.addEventListener('dragstart', (e) => {
+                e.dataTransfer.setData('text/plain', e.target.innerText);
+            });
+        });
+
+        dragArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+        });
+
+        dragArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            const data = e.dataTransfer.getData('text/plain');
+            const newElement = document.createElement('div');
+            newElement.innerText = data;
+            newElement.style.position = 'absolute';
+            newElement.style.left = `${e.clientX - dragArea.getBoundingClientRect().left}px`;
+            newElement.style.top = `${e.clientY - dragArea.getBoundingClientRect().top}px`;
+            newElement.style.backgroundColor = 'lightgray';
+            newElement.style.padding = '10px';
+            dragArea.appendChild(newElement);
+        });
+    </script>
+
+</body>
+</html>
