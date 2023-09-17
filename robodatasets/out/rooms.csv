@@ -1,0 +1,13 @@
+Id,Name
+TRU,trunion_cell
+SHE,sheet_metal
+MAC,machine_shop
+NOZ,nozzle_cell
+LAS,laser
+BG2,bldg_2_entry_area
+TOL,tool_room
+C16,cell_16
+PRE,press_room
+CLR,clearing_bldg
+ROL,shear_rolled_vane_cell
+STO,tool_storage
