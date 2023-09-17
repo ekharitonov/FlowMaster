@@ -1,12 +1,12 @@
-// main.js
+
 const { useState } = React;
 
 function App() {
   const [attributes, setAttributes] = useState({});
 
   const handleDrop = (e) => {
+    e.preventDefault();
     const id = e.dataTransfer.getData('text');
-    // Perform some operation and add attributes
     setAttributes({...attributes, [id]: { some_attribute: "value" }});
   };
 
