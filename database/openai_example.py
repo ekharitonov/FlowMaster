@@ -2,7 +2,7 @@ import openai
 import sqlite3
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = "XXX"
 
 def fetch_document_by_id(doc_id):
     conn = sqlite3.connect("documents.db")
