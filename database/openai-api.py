@@ -13,7 +13,7 @@ def fetch_document_by_id(doc_id):
         return None
 
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = "XXX"
 
 # Fetch a document from your database
 document_content = fetch_document_by_id(1)  # Replace 1 with the ID of the document you want to summarize
